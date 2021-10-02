@@ -178,7 +178,7 @@ while run:
 
 
             def pattern():
-                patterns= ['animals','fruits','colors','birds','constellations','countries',"vehicles","tools","instruments","body parts","Planets","World famous palaces&monuments","Top Watch Company","Chocolate Brands"]
+                patterns= ['animals','fruits','colors','birds','constellations','countries',"vehicles","tools","instruments","body parts","Planets","World famous palaces&monuments","Top Watch Company","Chocolate Brands","Top Car Brands"]
                 pick = random.choice(patterns) 
                 # pick=patterns[0]
                 return pick 
@@ -225,6 +225,9 @@ while run:
                 elif pick=="Chocolate Brands":
                         a= Choco_list[random.randint(0,len(Choco_list)-1)]
                         temp_patternlist =Choco_list
+                elif pick=="Top Car Brands":
+                        a= car_brand_list[random.randint(0,len(car_brand_list)-1)]
+                        temp_patternlist =car_brand_list
 
                                  
                 return a, temp_patternlist
