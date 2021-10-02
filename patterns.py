@@ -2004,3 +2004,6 @@ Watch_list=["Patek philippe",
 ]
 
 Choco_list=["Ferrero rocher","Lindt&sprungli","Ghiradrelli","Hersheys","Toblerone","Cadbury","Guylian","Patchi","Godiva","Nestle","Mars","Milka","Theo","M&m","Taza","Green&black's"]
+
+
+car_brand_list=["MG","Citroen","Hudson","Daewoo","Peugot","Renault","Studebaker","Suzuki","Genesis","Saab","Alfa Romeo", "Mini", "Fiat","Bugatti","Aston Martin", "Maserati","Oldsmobile","Mitsubishi","Infiniti","Pontiac","Chrysler","Kia","Ram Trucks","Tesla","Land Rover","Mazda","Lincoln","Hyundai","Dodge","Bentley","Acura","Buick","GMC","Jaguar","Volvo","Ferrari","Audi","Lexus","Volkswagen","Cadillac","Nissan","Subaru","Porsche","BMW","Jeep","Mercedes-Benz","Ford","Chevrolet","Honda","Toyota"]
